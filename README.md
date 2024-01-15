@@ -1,3 +1,5 @@
+![](https://github.com/WL0416/fe-test-task-ws/blob/main/screenshot.gif)
+
 # Frontend Test Task with WebSocket
 
 ## Goal
